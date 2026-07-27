@@ -8,7 +8,7 @@ export default function Home() {
                 <p className={styles.subtitle}>O framework React para produção</p>
 
                 <a
-                    href="https://nextjs.org/"
+                    href="https://frontend.codeverse.dev.br/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className={styles.cta}>

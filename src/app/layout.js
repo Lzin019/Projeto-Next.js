@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-    title: 'FrontEnd - Codeverse',
-    description: 'Template do Codeverse',
+    title: 'FrontEnd - Next.js',
+    description: 'Template do Next',
 };
 
 export default function RootLayout({ children }) {

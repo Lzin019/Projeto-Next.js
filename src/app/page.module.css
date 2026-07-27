@@ -9,7 +9,7 @@
     padding: 2rem 1.5rem;
     background-image:
         linear-gradient(to bottom, rgba(10, 15, 30, 0.35), rgba(10, 15, 30, 0.5)),
-        url('/images/next.jpeg');
+        url('/images/10310045.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@
 
 .title {
     margin: 0;
-    background: linear-gradient(135deg, #a5b4fc 0%, #38bdf8 100%);
+    background: linear-gradient(135deg, #f7f7f8 0%, #777474 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -43,7 +43,7 @@
 
 .subtitle {
     margin-top: 0.25rem;
-    color: #cbd5e1;
+    color: #c3c3c9;
     font-size: clamp(1rem, 2.5vw, 1.4rem);
     font-weight: 400;
     letter-spacing: 0.15em;
@@ -57,7 +57,7 @@
     margin-top: 1rem;
     border-radius: 999px;
     padding: 0.85rem 2.25rem;
-    background: linear-gradient(135deg, #a5b4fc 0%, #38bdf8 100%);
+    background: linear-gradient(135deg, #f9faff 0%, #3e4041 100%);
     color: #0a0f1e;
     font-weight: 700;
     text-decoration: none;
@@ -86,7 +86,7 @@
 
 .tagline {
     margin-top: 1rem;
-    color: #94a3b8;
+    color: #cbcdcf;
     font-size: 0.85rem;
     letter-spacing: 0.1em;
     text-transform: uppercase;
